@@ -1,12 +1,11 @@
 Hi, I’m @CrespoAlvarezAbdon.
 
-I’m interested in web programming, data processing, machine learning, video game development and almost any type of software development.
+I’m interested in web programming, data processing, machine learning, video game development and web services.
 I’m currently learning data processing and machine learning at the University of Cadiz (UCA).
 
-Looking to collaborate on: front-end and back-end software development, primarily focused around machine learning, data processing and web services.
+Looking to collaborate on: front-end or back-end software development, primarily focused around machine learning, data processing and web services.
 
-Actually working on a custom voxel engine with pseudo-infinite terrain generation. I will upload the first version to a public GitHub repository once it can achieve 
-decent performance with complete terrain generation and manipulation.
+Actually developing a custom voxel engine with pseudo-infinite terrain generation in my free time. I will upload the first version to a public GitHub repository once I can achieve decent performance with complete terrain generation and manipulation.
 
 Non-native B2 English speaker.
 
