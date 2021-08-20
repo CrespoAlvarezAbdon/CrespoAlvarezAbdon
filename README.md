@@ -5,7 +5,7 @@ I’m currently learning data processing and machine learning at the University 
 
 Looking to collaborate on: front-end or back-end software development, primarily focused around machine learning, data processing and web services.
 
-Actually developing a custom voxel engine with pseudo-infinite terrain generation in my free time. I will upload the first version to a public GitHub repository once I can achieve decent performance with complete terrain generation and manipulation.
+Actually developing a custom voxel engine with pseudo-infinite terrain generation in my free time. I have uploaded the first public version of the code. When everything is more stable I will think about releasing compiled versions of the code for Windows 10 and Ubuntu 20.04.
 
 Non-native B2 English speaker.
 
